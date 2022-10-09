@@ -1,4 +1,4 @@
-let recenica = "Kreka je iz fazane";
+let recenica = "web apps vježbe";
 
 
 function toCamel(recenica) {
