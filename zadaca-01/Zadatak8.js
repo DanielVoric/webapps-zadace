@@ -4,5 +4,4 @@ function obrni(polje){
     console.log(polje.reverse());
 
 }
-
 obrni(polje);
